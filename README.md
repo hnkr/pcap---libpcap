@@ -21,8 +21,8 @@ Discover PCAP,
     - make --version
         - GNU make 4.1 required( tested )
 
-## Compile & Run
-- Compile:
+## Build & Run
+- Build:
     - gcc pcapDiscovery.c -Wall -o pcapDiscovery -lpcap
 - Run:
     - sudo ./pcapDiscovery
